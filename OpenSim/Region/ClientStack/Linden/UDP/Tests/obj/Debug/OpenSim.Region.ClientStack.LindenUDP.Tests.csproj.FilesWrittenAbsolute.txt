@@ -1,0 +1,12 @@
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.Resources.4-tile2.jp2
+/home/paela/opensim/bin/OpenSim.Region.ClientStack.LindenUDP.Tests.pdb
+/home/paela/opensim/bin/OpenSim.Region.ClientStack.LindenUDP.Tests.dll
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.dll
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.Resources.4-tile2.jp2
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.ClientStack.LindenUDP.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.ClientStack.LindenUDP.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.pdb

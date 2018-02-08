@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Region.ClientStack.LindenCaps.Tests.pdb
+/home/paela/opensim/bin/OpenSim.Region.ClientStack.LindenCaps.Tests.dll
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/OpenSim.Region.ClientStack.LindenCaps.Tests.dll
+/home/paela/opensim/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/OpenSim.Region.ClientStack.LindenCaps.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.ClientStack.LindenCaps.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.ClientStack.LindenCaps.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/OpenSim.Region.ClientStack.LindenCaps.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/OpenSim.Region.ClientStack.LindenCaps.Tests.pdb
