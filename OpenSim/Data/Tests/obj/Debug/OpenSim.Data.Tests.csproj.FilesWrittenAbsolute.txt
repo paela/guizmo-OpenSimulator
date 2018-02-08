@@ -1,0 +1,12 @@
+/home/paela/opensim/OpenSim/Data/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.Resources.TestDataConnections.ini
+/home/paela/opensim/bin/OpenSim.Data.Tests.pdb
+/home/paela/opensim/bin/OpenSim.Data.Tests.dll
+/home/paela/opensim/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.dll
+/home/paela/opensim/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.Resources.TestDataConnections.ini
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Data.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Data.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.pdb
