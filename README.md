@@ -4,7 +4,7 @@ Just compile it and enjoy
 Need more help or questions ? use paelaargus@osgrid.org
 Thanks you
 
-# ( working very well in the lasted .net and mono 5.8.0.X
+# ( working very well in the lasted .net and mono 5.8.0.X )
 # Compiling OpenSim guizmo
 
 Please see BUILDING.md if you downloaded a source distribution and 
