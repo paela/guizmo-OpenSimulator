@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Framework/Monitoring/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Framework.Monitoring.pdb
+/home/paela/opensim/bin/OpenSim.Framework.Monitoring.dll
+/home/paela/opensim/OpenSim/Framework/Monitoring/obj/Debug/OpenSim.Framework.Monitoring.dll
+/home/paela/opensim/OpenSim/Framework/Monitoring/obj/Debug/OpenSim.Framework.Monitoring.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Monitoring/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Monitoring.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Monitoring.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Monitoring/obj/Debug/OpenSim.Framework.Monitoring.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Monitoring/obj/Debug/OpenSim.Framework.Monitoring.pdb
