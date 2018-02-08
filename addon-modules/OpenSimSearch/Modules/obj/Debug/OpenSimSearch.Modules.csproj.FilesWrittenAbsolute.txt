@@ -1,0 +1,5 @@
+/home/sunlight/Osgrid_Simulator_2018/Simu_sabi/addon-modules/OpenSimSearch/Modules/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/sunlight/Osgrid_Simulator_2018/Simu_sabi/bin/OpenSimSearch.Modules.dll.mdb
+/home/sunlight/Osgrid_Simulator_2018/Simu_sabi/bin/OpenSimSearch.Modules.dll
+/home/sunlight/Osgrid_Simulator_2018/Simu_sabi/addon-modules/OpenSimSearch/Modules/obj/Debug/OpenSimSearch.Modules.dll
+/home/sunlight/Osgrid_Simulator_2018/Simu_sabi/addon-modules/OpenSimSearch/Modules/obj/Debug/OpenSimSearch.Modules.dll.mdb
