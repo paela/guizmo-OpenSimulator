@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Region/Framework/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Region.Framework.pdb
+/home/paela/opensim/bin/OpenSim.Region.Framework.dll
+/home/paela/opensim/OpenSim/Region/Framework/obj/Debug/OpenSim.Region.Framework.dll
+/home/paela/opensim/OpenSim/Region/Framework/obj/Debug/OpenSim.Region.Framework.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/Framework/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.Framework.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.Framework.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/Framework/obj/Debug/OpenSim.Region.Framework.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/Framework/obj/Debug/OpenSim.Region.Framework.pdb
