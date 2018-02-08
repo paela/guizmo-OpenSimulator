@@ -1,0 +1,12 @@
+/home/paela/opensim/OpenSim/Data/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/OpenSim/Data/obj/Debug/OpenSim.Data.Resources.OpenSim.Data.addin.xml
+/home/paela/opensim/bin/OpenSim.Data.pdb
+/home/paela/opensim/bin/OpenSim.Data.dll
+/home/paela/opensim/OpenSim/Data/obj/Debug/OpenSim.Data.dll
+/home/paela/opensim/OpenSim/Data/obj/Debug/OpenSim.Data.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/obj/Debug/OpenSim.Data.Resources.OpenSim.Data.addin.xml
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Data.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Data.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/obj/Debug/OpenSim.Data.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Data/obj/Debug/OpenSim.Data.pdb
