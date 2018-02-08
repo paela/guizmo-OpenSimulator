@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Capabilities/Handlers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Capabilities.Handlers.pdb
+/home/paela/opensim/bin/OpenSim.Capabilities.Handlers.dll
+/home/paela/opensim/OpenSim/Capabilities/Handlers/obj/Debug/OpenSim.Capabilities.Handlers.dll
+/home/paela/opensim/OpenSim/Capabilities/Handlers/obj/Debug/OpenSim.Capabilities.Handlers.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Capabilities/Handlers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Capabilities.Handlers.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Capabilities.Handlers.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Capabilities/Handlers/obj/Debug/OpenSim.Capabilities.Handlers.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Capabilities/Handlers/obj/Debug/OpenSim.Capabilities.Handlers.pdb
