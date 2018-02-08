@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Framework/Serialization/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Framework.Serialization.pdb
+/home/paela/opensim/bin/OpenSim.Framework.Serialization.dll
+/home/paela/opensim/OpenSim/Framework/Serialization/obj/Debug/OpenSim.Framework.Serialization.dll
+/home/paela/opensim/OpenSim/Framework/Serialization/obj/Debug/OpenSim.Framework.Serialization.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Serialization/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Serialization.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Serialization.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Serialization/obj/Debug/OpenSim.Framework.Serialization.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Serialization/obj/Debug/OpenSim.Framework.Serialization.pdb

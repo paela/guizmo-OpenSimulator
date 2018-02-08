@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Framework/Servers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Framework.Servers.pdb
+/home/paela/opensim/bin/OpenSim.Framework.Servers.dll
+/home/paela/opensim/OpenSim/Framework/Servers/obj/Debug/OpenSim.Framework.Servers.dll
+/home/paela/opensim/OpenSim/Framework/Servers/obj/Debug/OpenSim.Framework.Servers.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Servers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Servers.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Servers.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Servers/obj/Debug/OpenSim.Framework.Servers.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Servers/obj/Debug/OpenSim.Framework.Servers.pdb

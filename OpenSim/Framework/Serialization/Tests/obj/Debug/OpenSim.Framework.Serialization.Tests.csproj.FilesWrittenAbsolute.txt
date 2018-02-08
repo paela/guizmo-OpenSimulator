@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Framework/Serialization/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Framework.Serialization.Tests.pdb
+/home/paela/opensim/bin/OpenSim.Framework.Serialization.Tests.dll
+/home/paela/opensim/OpenSim/Framework/Serialization/Tests/obj/Debug/OpenSim.Framework.Serialization.Tests.dll
+/home/paela/opensim/OpenSim/Framework/Serialization/Tests/obj/Debug/OpenSim.Framework.Serialization.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Serialization/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Serialization.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Serialization.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Serialization/Tests/obj/Debug/OpenSim.Framework.Serialization.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Serialization/Tests/obj/Debug/OpenSim.Framework.Serialization.Tests.pdb

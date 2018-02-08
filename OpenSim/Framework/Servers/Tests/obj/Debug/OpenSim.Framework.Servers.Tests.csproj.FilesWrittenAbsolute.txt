@@ -1,0 +1,10 @@
+/home/paela/opensim/OpenSim/Framework/Servers/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Framework.Servers.Tests.pdb
+/home/paela/opensim/bin/OpenSim.Framework.Servers.Tests.dll
+/home/paela/opensim/OpenSim/Framework/Servers/Tests/obj/Debug/OpenSim.Framework.Servers.Tests.dll
+/home/paela/opensim/OpenSim/Framework/Servers/Tests/obj/Debug/OpenSim.Framework.Servers.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Servers/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Servers.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Framework.Servers.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Servers/Tests/obj/Debug/OpenSim.Framework.Servers.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Framework/Servers/Tests/obj/Debug/OpenSim.Framework.Servers.Tests.pdb
