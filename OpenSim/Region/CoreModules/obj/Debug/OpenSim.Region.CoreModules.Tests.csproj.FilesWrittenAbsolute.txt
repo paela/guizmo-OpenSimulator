@@ -1,0 +1,12 @@
+/home/paela/opensim/OpenSim/Region/CoreModules/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.World.Archiver.Tests.Resources.test-sound.wav
+/home/paela/opensim/bin/OpenSim.Region.CoreModules.Tests.pdb
+/home/paela/opensim/bin/OpenSim.Region.CoreModules.Tests.dll
+/home/paela/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.dll
+/home/paela/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/CoreModules/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.World.Archiver.Tests.Resources.test-sound.wav
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.CoreModules.Tests.pdb
+/Users/ALEXMAC/guizmo-OpenSimulator/bin/OpenSim.Region.CoreModules.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.dll
+/Users/ALEXMAC/guizmo-OpenSimulator/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.pdb
