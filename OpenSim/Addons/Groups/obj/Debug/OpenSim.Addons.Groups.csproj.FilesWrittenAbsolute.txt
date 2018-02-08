@@ -1,0 +1,5 @@
+/home/paela/opensim/OpenSim/Addons/Groups/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Addons.Groups.pdb
+/home/paela/opensim/bin/OpenSim.Addons.Groups.dll
+/home/paela/opensim/OpenSim/Addons/Groups/obj/Debug/OpenSim.Addons.Groups.dll
+/home/paela/opensim/OpenSim/Addons/Groups/obj/Debug/OpenSim.Addons.Groups.pdb

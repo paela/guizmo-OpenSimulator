@@ -1,0 +1,5 @@
+/home/paela/opensim/OpenSim/Addons/OfflineIM/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.Addons.OfflineIM.pdb
+/home/paela/opensim/bin/OpenSim.Addons.OfflineIM.dll
+/home/paela/opensim/OpenSim/Addons/OfflineIM/obj/Debug/OpenSim.Addons.OfflineIM.dll
+/home/paela/opensim/OpenSim/Addons/OfflineIM/obj/Debug/OpenSim.Addons.OfflineIM.pdb

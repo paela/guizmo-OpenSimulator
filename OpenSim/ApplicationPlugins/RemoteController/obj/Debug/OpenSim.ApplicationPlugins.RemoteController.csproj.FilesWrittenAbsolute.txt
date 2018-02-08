@@ -1,0 +1,5 @@
+/home/paela/opensim/OpenSim/ApplicationPlugins/RemoteController/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.ApplicationPlugins.RemoteController.pdb
+/home/paela/opensim/bin/OpenSim.ApplicationPlugins.RemoteController.dll
+/home/paela/opensim/OpenSim/ApplicationPlugins/RemoteController/obj/Debug/OpenSim.ApplicationPlugins.RemoteController.dll
+/home/paela/opensim/OpenSim/ApplicationPlugins/RemoteController/obj/Debug/OpenSim.ApplicationPlugins.RemoteController.pdb

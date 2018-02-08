@@ -1,0 +1,5 @@
+/home/paela/opensim/OpenSim/ApplicationPlugins/LoadRegions/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/paela/opensim/bin/OpenSim.ApplicationPlugins.LoadRegions.pdb
+/home/paela/opensim/bin/OpenSim.ApplicationPlugins.LoadRegions.dll
+/home/paela/opensim/OpenSim/ApplicationPlugins/LoadRegions/obj/Debug/OpenSim.ApplicationPlugins.LoadRegions.dll
+/home/paela/opensim/OpenSim/ApplicationPlugins/LoadRegions/obj/Debug/OpenSim.ApplicationPlugins.LoadRegions.pdb
